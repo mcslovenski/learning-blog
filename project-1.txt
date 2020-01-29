@@ -1,4 +1,15 @@
 -- Checkpoint 0 --
 
 For my first learning project I will be creating a web interface to display data using an Amazon Web Services (AWS) backend.
-In undertaking this project I hope to learn the ins and outs of various AWS services as well as
+In undertaking this project I hope to learn the ins and outs of various AWS products as well as how to integrate AWS into a web environment.
+A side goal of this project is to explore and compare and contrast database technologies and gain experience cleaning and structuring data.
+
+
+// 29 - 01 - 2020 //
+
+To begin my learning journey, I've created an account on AWS Educate to begin learning AWS concepts at an overview level and ultimately to obtain specialized knowledge about particular AWS products.
+I am fortunate to have access to AWS Educate (and limited free use of AWS products) by virtue of having a university email address but I am also exploring LinkedIn Learning courses that may be valuable to augment any gaps or deficiencies I encounter while using AWS Educate.
+Thus far I have completed the "Cloud Computing 101" course on AWS Educate and will be moving on to work on the "Solutions Architect" set of modules.
+Reflecting on my still limited experience with AWS Educate, I would say that there is not as much centralized and dedicated content as I would like to see. In other words, the modules rely heavily on linking to third-party courses of significant length and to general information videos as opposed to having content designed for the platform that flow thematically and are directed towards AWS Educate users.
+I plan on working through AWS Educate content throughout the week and hopefully achieving completion on the "Solutions Architect" pathway sometime next week. I am hoping also to start doing some exploratory research on database implementation soon.
+
