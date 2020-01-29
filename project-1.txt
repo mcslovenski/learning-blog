@@ -1,0 +1,4 @@
+-- Checkpoint 0 --
+
+For my first learning project I will be creating a web interface to display data using an Amazon Web Services (AWS) backend.
+In undertaking this project I hope to learn the ins and outs of various AWS services as well as
