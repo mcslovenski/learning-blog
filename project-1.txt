@@ -13,3 +13,10 @@ Thus far I have completed the "Cloud Computing 101" course on AWS Educate and wi
 Reflecting on my still limited experience with AWS Educate, I would say that there is not as much centralized and dedicated content as I would like to see. In other words, the modules rely heavily on linking to third-party courses of significant length and to general information videos as opposed to having content designed for the platform that flow thematically and are directed towards AWS Educate users.
 I plan on working through AWS Educate content throughout the week and hopefully achieving completion on the "Solutions Architect" pathway sometime next week. I am hoping also to start doing some exploratory research on database implementation soon.
 
+
+// 05 - 02 - 2020 //
+
+This week I spent a lot of time working through AWS Educate Modules.
+I was able to complete the module for non-relational database concepts and their relation to AWS and to begin learning content for the module on relational database concepts and how they relate to AWS.
+Due to my past experience with relational databases I will likely be able to progress through this module quickly and hope to have completed it by next week's class.
+As I consumed more content in completing the past two modules than I had anticipated, I plan on being able to finish the "Solutions Architect" pathway during next week's class as I was not able to finish this week.
