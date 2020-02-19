@@ -5,7 +5,7 @@ In undertaking this project I hope to learn the ins and outs of various AWS prod
 A side goal of this project is to explore and compare and contrast database technologies and gain experience cleaning and structuring data.
 
 
-// 29 - 01 - 2020 //
+// 2020 - 01 -29 //
 
 To begin my learning journey, I've created an account on AWS Educate to begin learning AWS concepts at an overview level and ultimately to obtain specialized knowledge about particular AWS products.
 I am fortunate to have access to AWS Educate (and limited free use of AWS products) by virtue of having a university email address but I am also exploring LinkedIn Learning courses that may be valuable to augment any gaps or deficiencies I encounter while using AWS Educate.
@@ -14,9 +14,20 @@ Reflecting on my still limited experience with AWS Educate, I would say that the
 I plan on working through AWS Educate content throughout the week and hopefully achieving completion on the "Solutions Architect" pathway sometime next week. I am hoping also to start doing some exploratory research on database implementation soon.
 
 
-// 05 - 02 - 2020 //
+// 2020 - 02 - 05 //
 
 This week I spent a lot of time working through AWS Educate Modules.
 I was able to complete the module for non-relational database concepts and their relation to AWS and to begin learning content for the module on relational database concepts and how they relate to AWS.
 Due to my past experience with relational databases I will likely be able to progress through this module quickly and hope to have completed it by next week's class.
 As I consumed more content in completing the past two modules than I had anticipated, I plan on being able to finish the "Solutions Architect" pathway during next week's class as I was not able to finish this week.
+
+
+// 2020 - 02 - 12 //
+
+This week I was determined to finish the AWS Educate "Solution Architect" certification during class.
+I was able to complete the final educational module fairly quickly and I completed the two summary exam modules shortly thereafter.
+Reflecting on the course as a whole I would say that there are likely many better resources for learning AWS concepts but the endorsement from AWS Educate of the skills that I learned feels worth having both from a practical perspective as well as educationally.
+Having completed the major certification that I wanted to earn for this project, I moved on to my next steps which center around independent experimentation with AWS databases.
+In the remainder of my studio time I was able to run through an AWS exercise on comissioning an instance of DynamoDB, populating it, editing it, and ultimately decomissioning it.
+This exercise was a good bridging experience between the educational modules I had completed and the project tasks I want to accomplish.
+Next week I hope to accomplish the following tasks for the end of this project period: create a database through AWS, import data into the database, read the data from the database to my GitHub home page (mcslovenski.github.io)
