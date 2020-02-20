@@ -10,8 +10,10 @@ A side goal of this project is to explore and compare and contrast database tech
 To begin my learning journey, I've created an account on AWS Educate to begin learning AWS concepts at an overview level and ultimately to obtain specialized knowledge about particular AWS products.
 I am fortunate to have access to AWS Educate (and limited free use of AWS products) by virtue of having a university email address but I am also exploring LinkedIn Learning courses that may be valuable to augment any gaps or deficiencies I encounter while using AWS Educate.
 Thus far I have completed the "Cloud Computing 101" course on AWS Educate and will be moving on to work on the "Solutions Architect" set of modules.
-Reflecting on my still limited experience with AWS Educate, I would say that there is not as much centralized and dedicated content as I would like to see. In other words, the modules rely heavily on linking to third-party courses of significant length and to general information videos as opposed to having content designed for the platform that flow thematically and are directed towards AWS Educate users.
-I plan on working through AWS Educate content throughout the week and hopefully achieving completion on the "Solutions Architect" pathway sometime next week. I am hoping also to start doing some exploratory research on database implementation soon.
+Reflecting on my still limited experience with AWS Educate, I would say that there is not as much centralized and dedicated content as I would like to see.
+In other words, the modules rely heavily on linking to third-party courses of significant length and to general information videos as opposed to having content designed for the platform that flow thematically and are directed towards AWS Educate users.
+I plan on working through AWS Educate content throughout the week and hopefully achieving completion on the "Solutions Architect" pathway sometime next week.
+I am hoping also to start doing some exploratory research on database implementation soon.
 
 
 // 2020 - 02 - 05 //
@@ -24,10 +26,34 @@ As I consumed more content in completing the past two modules than I had anticip
 
 // 2020 - 02 - 12 //
 
-This week I was determined to finish the AWS Educate "Solution Architect" certification during class.
+This week my goal was to finish the AWS Educate "Solution Architect" certification during class.
 I was able to complete the final educational module fairly quickly and I completed the two summary exam modules shortly thereafter.
 Reflecting on the course as a whole I would say that there are likely many better resources for learning AWS concepts but the endorsement from AWS Educate of the skills that I learned feels worth having both from a practical perspective as well as educationally.
 Having completed the major certification that I wanted to earn for this project, I moved on to my next steps which center around independent experimentation with AWS databases.
-In the remainder of my studio time I was able to run through an AWS exercise on comissioning an instance of DynamoDB, populating it, editing it, and ultimately decomissioning it.
-This exercise was a good bridging experience between the educational modules I had completed and the project tasks I want to accomplish.
-Next week I hope to accomplish the following tasks for the end of this project period: create a database through AWS, import data into the database, read the data from the database to my GitHub home page (mcslovenski.github.io)
+In the remainder of my studio time I was able to run through an AWS exercise on comissioning an instance of DynamoDB, populating it, editing it, and ultimately decomissioning it. This exercise was a good bridging experience between the educational modules I had completed and the project tasks I want to accomplish.
+Next week I hope to accomplish the following tasks for the end of this project period: create a database through AWS, import data into the database, read the data from the database to my GitHub home page (mcslovenski.github.io).
+
+
+// 2020 - 02 - 19 //
+
+During class I worked through the process of actually setting up my AWS account and configuring it to conform to best practices for service deployment and began working on the process of setting up API connection between infrastructure associated with my account and web documents.
+Because the above aspects were not covered in the "Solutions Architect" training that I undertook, researching these foundational facets of AWS in order to sufficiently understand them took up a lot of time.
+Of course account security and application deployments are extremely large topics themselves I feel that there is both too much to learn in a limited timeframe and also that it is difficult for me to know what the essential information is.
+At the end of the day I felt that I had had a productive session in learning some of the most basic security fundamentals of AWS administration and in learning how such principles are tied to the nuts and bolts of actually setting up useful infrastructure with APIs.
+Ultimately, gaining knowledge of AWS integration into useful products was one of my main goals for this project and I think that I made solid progress in that direction.
+
+
+-- Checkpoint 1 --
+
+This project unfortunately came to an end before I was able to accomplish my primary deliverable goals as established in Checkpoint 0.
+While I did fail to actually build anything, as I had intended initially, I believe that I addressed my learning goals fairly comprehensively and that I did achieve other concrete learning objectives.
+As for my main goals, I did "learn the ins and outs of various AWS products" through the significant time I spent on AWS Educate as evidenced by the AWS Educate certificate I received for solutions architecture.
+While I failed to objectively demonstrate that I learned "how to integrate AWS into a web environment," I do feel that I addressed this through the research that I performed in preparation for building a database with an active API connection even though I ran out of time to actually demonstrate this.
+In completing my AWS Educate certification in solutions architecture I also accomplished both of my side goals as the pathway that I completed contained dedicated lessons on relational and non-relational databases, data management and wrangling, and data structures.
+
+I think that while I was relatively near to completing my initial project goal of hosting data on AWS and displaying it on a publicly accessible website, I underestimated the time that this would take in sum.
+A large part of this misestimation is likely due to my commitment to achieving the AWS Educate certification which was largely tangential to my initial goal.
+In some ways I think that my project became the AWS Educate course completion.
+My overall recommendation for readers looking to introduce themselves to AWS products and services is to to familiarize yourself with the products through AWS documentation or through online resources that provide broad overviews of the AWS ecosystem, and then to dive directly into documentation and experimentation with specific resources;
+AWS Educate learning modules are not ideal as comprehensive resources and most importantly provide limited action items for exercise.
+Having said this, the AWS Educate does link to a lot of great resources and of course provides a nice certificate which is nice for objectively establishing the skills you've gained.
