@@ -1,0 +1,33 @@
+// 2020 - 02 - 26 //
+
+For this learning project my goal is to familiarize myself with the process of running jobs on Hadoop.
+My main resources for this project will be the LinkedIn Learning course "Learning Hadoop" and the documentation for Hadoop on the Apache Foundation website.
+At the close of this first checkpoint I have watched course modules from Learning Hadoop that introduce Hadoop conceptually and illustrate how Hadoop as a software functions as well as how it is part of a larger Hadoop ecosystem of technologies that manage and extend functionality for complete workflows.
+I feel that I have a much better understanding of what Hadoop is and isn't as well as a general sense of how complementary tools fit together to manage specific aspects of Hadoop workflows.
+At this time I still believe that my goal of running Hadoop jobs on my own will be possible.
+While I hope to continue to develop my understanding of abstraction and optimization tools available for Hadoop, my goal will be to configure and use Hadoop at a base or vanilla level without additional integrations or wrappers.
+
+
+// 2020 - 03 - 04 //
+
+Today, in addition to watching modules of Learning Hadoop about Hadoop distributions, the use of the Hue GUI for Hadoop, and the basics of the MapReduce function, I worked through installation of Hadoop.
+Much of my time today was devoted launching an EC2 instance on Amazon Web Services on which to install and run Hadoop, and installing Hadoop on this server.
+While deploying an Ubuntu server and installing Java on it were relatively simple tasks, I sort of went down a proverbial rabbit hole when downloading Hadoop itself from Apache.
+My interest was initially piqued on seeing the download process for vanilla Hadoop and its mention of the download verification process.
+This led me to spend the rest of my studio time researching signing, OpenPGP and GnuPGP, and software verification in general; which, although not directly related to learning Hadoop, is an important part of using open-source software that is distributed in such a manner.
+
+
+// 2020 - 03 - 11 //
+
+Today I was able to accomplish the minimal interpretation of my goal in running a hadoop job, period.
+I was able to complete the installation of Hadoop on my cloud server, complete initial configuration, and run a "hello, world" type query on files included in the Hadoop download.
+My main resource today for this task was Apache documentation: https://hadoop.apache.org/docs/r3.2.1/hadoop-project-dist/hadoop-common/SingleCluster.html
+I referred to this accomplishment as a minimal interpretation of my goal because my configuration accounts for only the most general elements of a practical Hadoop task:
+- My configuration has Hadoop running on a single node, non-distributed --> In practice Hadoop is almost always run in a distributed environment
+- My query used a local folder containing a handful of xml files for input and output to a local folder --> In practice Hadoop almost always utilizes Hadoop Distributed File System (HDFS) or some other block-level storage (such as AWS S3)
+While I was excited to get a job running on my own server, I hope to accomplish a fuller interpretation of my goal, incorporating the above considerations for real-world use.
+When I return to this project I hope to run Hadoop in a pseudo-distributed mode on my existing EC2 instance as well as in fully distributed mode which will require more EC2 instances. I hope also to connect Hadoop to S3 for input/output.
+
+
+// 2020 - 04 - 01 //
+
