@@ -19,7 +19,7 @@ This led me to spend the rest of my studio time researching signing, OpenPGP and
 
 // 2020 - 03 - 11 //
 
-Today I was able to accomplish the minimal interpretation of my goal in running a hadoop job, period.
+Today I was able to accomplish the minimal interpretation of my goal in running a Hadoop job, period.
 I was able to complete the installation of Hadoop on my cloud server, complete initial configuration, and run a "hello, world" type query on files included in the Hadoop download.
 My main resource today for this task was Apache documentation: https://hadoop.apache.org/docs/r3.2.1/hadoop-project-dist/hadoop-common/SingleCluster.html
 I referred to this accomplishment as a minimal interpretation of my goal because my configuration accounts for only the most general elements of a practical Hadoop task:
@@ -31,3 +31,21 @@ When I return to this project I hope to run Hadoop in a pseudo-distributed mode 
 
 // 2020 - 04 - 01 //
 
+Today I was able to configure and run Hadoop in pseudo-distributed mode using HDFS on my AWS Ubuntu instance.
+I again ran a most basic query, similar to the non-distributed job I had run previously.
+In addition to this accomplishment I began learning about cluster configuration and S3 integration which were my recently developed stretch goals.
+While I was able to learn a decent amount about cluster configuration I could not find a great resource for integrating S3 with Hadoop outside of the use of AWS Elastic MapReduce (EMR).
+At this point I felt that I didn't have enough time to setup a cluster to run Hadoop on my own or to get into EMR so I concluded my research by by looking for resources on HDFS use and management; I was able to find a LinkedIn Learning course that addressed Hadoop administration more thoroughly than the course I had used for this project.
+On concluding this session I felt like I had a long way to go before achieving the more ambitious aspects of my goal but that I had achieved a solid understanding of what I would need to learn to get there.
+
+
+-- Checkpoint 2 --
+
+This project was really rewarding for me.
+I was concerned upon initially establishing my goal for this project due to my complete lack of knowledge of the technology and thus my uncertainty as to an appropriate scope.
+I established a solid understanding of the technology conceptually and gained a reasonable amount of exposure to operating the technology practically in addition to achieving my project goal in a literal sense.
+While I was surprised at the lack of resources about Hadoop on LinkedIn Learning, I found that there were some solid text-based tutorials that I was able to utilize.
+Relatedly, I should have examined the course contents of the LinkedIn Learning courses that I browsed instead of going by their titles because I think that I would have been better served by the course that I referenced during my last session than the one that I used from the beginning.
+The course that I tried to build my base knowledge on was decent and contributed to my conceptual understanding but focused too much on specific implementation setups and the use of specific tools and interfaces.
+My recommendation to readers is to use Apache's documentation and search for tutorials by looking for specific tasks or aspects of tasks that you want to try next.
+Moving forward I think I will look further into HDFS configuration and management for production environments and also that I might give AWS EMR a whirl as it seems like a quick and intuitive way to run a Hadoop cluster.
