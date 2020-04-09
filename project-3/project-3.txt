@@ -1,0 +1,10 @@
+// 2020 - 04 - 08 //
+
+For this third and final learning project I will be learning the Django framework for Python.
+As a goal, I hope to make a functioning web application that uses Django for backend support.
+To begin with, I started my making familiar with Django using Mozilla's instructional materials, located at the following URL: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+While I began by using Mozilla's introduction and tutorial set, I'm still undecided whether I will continue to work thorugh Mozilla's tutorials or to utilize LinkedIn Learning.
+This week I was able to gain an introductory sense of Django's capabilities and set up an environment to test Django in, next week I will try out some of the video resources on LinkedIn Learning.
+In particular I plan on viewing "Learning Django" and "Building RESTful Web APIs with Django" next week and making some progress on building something deployable.
+
+
