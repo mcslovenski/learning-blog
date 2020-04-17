@@ -8,3 +8,13 @@ This week I was able to gain an introductory sense of Django's capabilities and 
 In particular I plan on viewing "Learning Django" and "Building RESTful Web APIs with Django" next week and making some progress on building something deployable.
 
 
+// 2020 - 04 - 16 //
+
+This past week the two main areas I spent time on were beginning the "Learning Django" video series and continuing to work through Mozilla's Django tutorial set.
+I was glad to get started on that video series even if I did not begin applying any new concepts in a hands-on way.
+I also felt that the Mozilla tutorials picked up and covered some more interesting aspects of the framework than they had covered in the tutorials that I completed the previous week.
+This week the Mozilla tutorials covered all necessary basic concepts for data modeling and using Django's built-in ORM and for using and configuring Django's admin interface.
+Next week I hope to complete the Mozilla tutorial set and perhaps watch a few more "Learning Django" videos on LinkedIn Learning.
+
+
+// 
