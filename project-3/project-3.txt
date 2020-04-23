@@ -17,4 +17,15 @@ This week the Mozilla tutorials covered all necessary basic concepts for data mo
 Next week I hope to complete the Mozilla tutorial set and perhaps watch a few more "Learning Django" videos on LinkedIn Learning.
 
 
+// 2020 - 04 - 22 //
+
+I felt good about the degree to which I was able to accomplish my goals for this week.
+I continued to make progress in the Mozilla tutorials, completing two full substantial sections of tutorial.
+Although I didn't complete the Mozilla tutorials I had intended, the tutorial sections this week were quite a bit longer and more involved than previous sections and I believe that I am finished with the most significant building tutorials and will now be moving on to infrastructure and deployment concerns which will be very interesting.
+Additionally I was able to complete roughly half of LinkedIn Learning's "Learning Django".
+I am thus far pleased with Learning Django especially with how it has complemented my studies of Mozilla's educational project.
+Approaching the final checkpoint, I plan on finishing the Learning Django course and its accompaniying project and then completing the Mozilla tutorials.
+As a stretch goal for the final checkpoint I hope to be able to try out some deployment configurations with the Mozilla site.
+
+
 // 
