@@ -28,4 +28,20 @@ Approaching the final checkpoint, I plan on finishing the Learning Django course
 As a stretch goal for the final checkpoint I hope to be able to try out some deployment configurations with the Mozilla site.
 
 
-// 
+// 2020 - 04 - 29 //
+
+My goals for this week felt accomplishable initially but I hadn't considered the time I would lose due to it being the end of the semester and other classes demanding more of my time relative to other weeks of this project.
+I was able to finish the Learning Django video course and I was able to finish the Mozilla practice Django site but I was forced to take some shortcuts on the tutorial and omit some of the deployment tutorials that I was looking forward to.
+I was unable to accomplish deployment of any kind beyond local operation which was disappointing but not catastrophic.
+Although I didn't get to spend any time on my stretch goal, I feel that I essentially accomplished my goal for the week.
+
+
+-- Checkpoint 3 --
+
+Looking back on this project I think that it was probably the most polished learning experience and smoothest combination of conceptual learning and practice.
+This project may have been particularly fluid due to the popularity of Django and to the lack of technical complexity when compared to my previous areas of study (the AWS ecosystem and Hadoop).
+Although it was a more accessible framework and I felt that on some level I didn't learn as much new material as the more challenging technologies, I think that I probably came away with the most new skills that are at a level of practical application.
+I think that my learning materials were fairly strong but given the wealth of resources on learning Django I suspect that I likely didn't maximize resource quality by shopping around as much as I could have.
+If I were to advise someone who wanted to learn Django I would recommend the LinkedIn Learning course that I used and I wouldn't *not* recommend Mozilla's tutorial series but I would recommend glossing over it before committing to the whole series and doing some browsing in other places.
+Having said that, Mozilla's resources are free in addition to being extremely comprehensive so that availability might also be an advantage for many learners.
+Moving forward, although not directly related to improving my skills using Django, I hope to learn a lot more about web site/app deployment infrastructure and how that ties in to other popular technologies that I've studied over the course of this semester such as AWS products.
